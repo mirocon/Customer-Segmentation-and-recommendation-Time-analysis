@@ -1,1 +1,1 @@
-This project was aimed to help a client to understand its ** **customer base** ** through clustering, helping the client in building a recommendation system and understand the factors affecting delivery time and what can the client do to improve its performances
+This project was aimed to help a client to understand its **customer base** through **clustering**, helping the client in building a **recommendation system** and finding the factors that affect delivery time and what can the client do to improve its performances on shipping
